@@ -1,0 +1,19 @@
+{
+  "name": "cliwithnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tran": "./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^8.0.0",
+    "chalk": "^5.0.1",
+    "yargs": "^17.5.1"
+  }
+}
